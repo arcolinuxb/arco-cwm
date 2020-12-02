@@ -607,7 +607,7 @@ arcolinux-config-cwm-git
 #arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
 #arcolinux-cinnamon-dconf-git
-arcolinux-cwm-git
+arcolinux-cwm-dconf-git
 #arcolinux-dconf-git
 #arcolinux-deepin-dconf-git
 #arcolinux-dwm-dconf-git
