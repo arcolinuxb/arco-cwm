@@ -26,10 +26,10 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="dwm"
-	lightdmDesktop="dwm"
+	desktop="cwm"
+	lightdmDesktop="cwm"
 
-	arcolinuxVersion='v20.11.9'
+	arcolinuxVersion='v21.01.2'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
@@ -130,7 +130,7 @@ echo
 	echo "Git clone the latest ArcoLinux-iso from github"
 	echo
 	git clone https://github.com/arcolinux/arcolinux-iso ../work
-
+sleep 60
 echo
 echo "################################################################## "
 tput setaf 2
