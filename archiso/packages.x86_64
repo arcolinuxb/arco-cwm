@@ -836,10 +836,9 @@ xfce4-taskmanager
 ###########################################################################
 
 #polybar
-#polybar
+polybar
 
 #desktop specific cwm
 sxhkd
 autorandr
-arcolinux-cwm
-polybar
+arco-cwm
