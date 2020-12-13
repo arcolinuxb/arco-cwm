@@ -130,7 +130,7 @@ echo
 	echo "Git clone the latest ArcoLinux-iso from github"
 	echo
 	git clone https://github.com/arcolinux/arcolinux-iso ../work
-sleep 60
+
 echo
 echo "################################################################## "
 tput setaf 2

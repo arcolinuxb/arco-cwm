@@ -131,8 +131,6 @@ echo
 	echo
 	git clone https://github.com/arcolinux/arcolinux-iso ../work
 
-sleep 60
-
 echo
 echo "################################################################## "
 tput setaf 2
