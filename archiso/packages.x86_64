@@ -842,4 +842,5 @@ polybar
 #desktop specific cwm
 sxhkd
 autorandr
-arcolinux-cwm
+#arcolinux-cwm
+cwm
