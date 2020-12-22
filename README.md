@@ -2,7 +2,7 @@
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-dwm
+	git clone https://github.com/arcolinuxb/arco-cwm
 
 # Follow installation tutorials on
 
